@@ -16,7 +16,7 @@ The following Python libraries were used in this analysis:
    -Statistical analysis: chi-square test, cremer's V test, indepedent t-test
    -Logistic regression model
    -Visualisation (boxplots, bar plots, stacked bar)
-   2. Dataset: Health.csv
+   2. Dataset: Health.csv https://www.kaggle.com/datasets/hamzasajjad321/health-and-stroke-risk-factors
    3. README.md: this file
    4. LICENCE
    
